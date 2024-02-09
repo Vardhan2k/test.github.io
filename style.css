@@ -1,0 +1,62 @@
+.boxOne{
+    background-color: white;
+    width: 50vw;
+    margin: auto;
+    box-shadow: 2px 6px 15px rgba(131, 131, 131, 0.2);
+    border-radius: 4px;
+    text-align: center;
+    padding: 60px;
+}
+
+body{
+    background-color: #EBF9FF;
+    font-family: 'Open Sans', Tahoma
+}
+
+#one{
+    margin-top: 5% !important;
+    height: 50vh;
+}
+#two{
+    margin-top: 2% !important;
+    height: 25vh;
+}
+#three{
+    margin-top: 2% !important;
+    height: 25vh;
+}
+#four{
+    margin-top: 2% !important;
+    height: 25vh;
+}
+#five{
+    margin-top: 2% !important;
+    height: 15vh;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.buttonOne{
+    background-color: #AC2DFF;
+    border: none;
+    padding: 17px;
+    color: white;
+    border-radius: 4px;
+}
+.buttonOne:hover{
+    background-color: black;
+    transition: ease-in-out;
+    cursor: pointer;
+}
+#imgDiv{
+    height: 120px;
+}
+h1{
+    color: rgba(49, 49, 49, 0.9);
+}
+h2{
+    color: rgba(8, 196, 139, 0.8);
+}
+.social{
+    height: 50px;
+    padding: 10px;
+}
